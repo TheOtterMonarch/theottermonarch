@@ -3,9 +3,9 @@
 
 - I’m currently learning the **Godot game engine!**
 
-- My website: [https://krebblerstudios.my.canva.site/](https://krebblerstudios.my.canva.site/)
+- My website: [https://krebblerstudios.github.io/](https://krebblerstudios.github.io/)
 
-- How to reach me: **krebblerstudios@gmail.com**
+- How to reach me: **theottermonarch@proton.me**
 
 - Join my subreddit: **https://www.reddit.com/r/KrebblerStudios/**
 
