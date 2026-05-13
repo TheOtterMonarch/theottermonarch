@@ -6,7 +6,7 @@
 
 - My OS: **Fedora Linux**
 
-- I'm also working on [Community OS](https://ember2819.github.io/Random-People-Coding-Stuff/)
+- I'm also working on [GeckoOS](https://ember2819.github.io/Random-People-Coding-Stuff/)
 
 - My email: [theottermonarch@proton.me](mailto:theottermonarch@proton.me)
 
